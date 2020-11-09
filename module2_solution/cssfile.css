@@ -14,7 +14,7 @@ h1 {
 }
 
 section {
-    margin: 1%;
+	  margin: 1%;
     text-align: center;
     width: 31.33%;
     float: left;
@@ -45,6 +45,8 @@ section > span {
 span {
   font-size: 17px;
   font-family: Georgia, serif; 
+  font-weight: bold;
+  font-style: italic; 
   border: 1px solid black;
   position: absolute;
   width: 20%;
@@ -62,8 +64,8 @@ span {
        background-color: rgb(174, 180, 214) ; 
       }
   section {
-      width: 100%;
-     }
+    width: 100%;
+  }
 }
 
 @media screen and (min-width: 768px) and (max-width: 991px) {
@@ -71,12 +73,12 @@ span {
     background-color: rgb(159, 197, 167);
   }
   section#falafel {
-    width: 48%;
+    width: 47.90%;
   }
   section#hummus {
-    width: 48%;
+    width: 47.90%;
   }
   section#burger {
     width: 100%;
 }
-}
+} 
