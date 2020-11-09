@@ -10,11 +10,13 @@ h1 {
   text-align: center;
   padding-top: 5%;
   padding-bottom: 5%;
+  margin: auto;
 }
 
 section {
+	margin: 1%;
     text-align: center;
-    width: 33.33%;
+    width: 31.33%;
     float: left;
     padding: 5px;
     padding-top: 50px;
@@ -30,7 +32,7 @@ section {
 
 p {
   text-align: center;
-  font-size: 16px;
+  font-size: 15px;
   font-family: Georgia, serif; 
 }
 
@@ -41,7 +43,7 @@ section > span {
 
 
 span {
-font-size: 18px;
+font-size: 17px;
 font-family: Georgia, serif; 
   border: 1px solid black;
   position: absolute;
@@ -69,10 +71,10 @@ font-family: Georgia, serif;
     background-color: rgb(159, 197, 167);
   }
   section#falafel {
-    width: 50%;
+    width: 48%;
   }
   section#hummus {
-    width: 50%;
+    width: 48%;
   }
   section#burger {
     width: 100%;
