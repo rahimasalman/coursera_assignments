@@ -14,7 +14,7 @@ h1 {
 }
 
 section {
-	margin: 1%;
+    margin: 1%;
     text-align: center;
     width: 31.33%;
     float: left;
@@ -43,8 +43,8 @@ section > span {
 
 
 span {
-font-size: 17px;
-font-family: Georgia, serif; 
+  font-size: 17px;
+  font-family: Georgia, serif; 
   border: 1px solid black;
   position: absolute;
   width: 20%;
@@ -62,8 +62,8 @@ font-family: Georgia, serif;
        background-color: rgb(174, 180, 214) ; 
       }
   section {
-    width: 100%;
-  }
+      width: 100%;
+     }
 }
 
 @media screen and (min-width: 768px) and (max-width: 991px) {
