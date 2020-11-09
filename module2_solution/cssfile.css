@@ -30,7 +30,7 @@ section {
 
 p {
   text-align: center;
-  font-size: 18px;
+  font-size: 16px;
   font-family: Georgia, serif; 
 }
 
@@ -41,7 +41,7 @@ section > span {
 
 
 span {
-font-size: 20px;
+font-size: 18px;
 font-family: Georgia, serif; 
   border: 1px solid black;
   position: absolute;
