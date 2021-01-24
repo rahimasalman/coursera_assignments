@@ -97,6 +97,11 @@ h2{
     width: 100px;
   }
   
+   button , .navbar-toggler-icon{
+    display: none !important;
+    visibility: hidden;
+  }
+  
 .box{
   margin: 0 auto !important;
   width: 80%;
